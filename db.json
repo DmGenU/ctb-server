@@ -1,0 +1,5273 @@
+{
+    "startdata": [
+        { "name": "Films", 
+        "keyWord": "films", 
+        "buttons": [32, 64, 128, 256], 
+        "title": "FILMS", 
+        "slogan":  "Выбери любимый фильм",
+        "descriptionTitle": "Кинофильмы",
+        "text": "У каждого из нас есть любимые фильмы. Но в финале победит только один из них. Проверь, какой фильм зарубежного большого кино окажется в топе, а какие фильмы предпочитают другие."
+        },
+        { "name": "Games", 
+        "keyWord": "games", 
+        "buttons": [32, 64, 128],
+        "title": "VIDEOGAMES", 
+        "slogan":  "Выбери любимую игру",
+        "descriptionTitle": "Видеоигры",
+        "text": "В этом 'турнире' предстоит выбрать лучшую на ваш взгляд видеоигру среди известных игровых проектов. Сделай свой выбор и сравни, какие игры нравятся другим участникам теста."
+        },
+        { "name": "TV Shows", 
+        "keyWord": "tvshows", 
+        "buttons": [16, 32, 64],
+        "title": "TV SHOWS", 
+        "slogan":  "Выбери любимый сериал",
+        "descriptionTitle": "Телесериалы",
+        "text": "Этот тест подойдет для любителей проводить вечера за просмотром телесериалов. Наверняка, существует тот проект, главный герой которого тебе понравился больше, или, может, чья история тебе показалась самой захватывающей."
+        }
+    ],
+
+    "films": 
+        [
+            {
+                "fileName": "basic-instinct.jpg",
+                "enName": "Basic Instinct",
+                "ruName": "Основной инстинкт",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 1
+            },
+            {
+                "fileName": "batman-begins.jpg",
+                "enName": "Batman Begins",
+                "ruName": "Бэтмен: Начало",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 2
+            },
+            {
+                "fileName": "birdman.jpg",
+                "enName": "Birdman",
+                "ruName": "Бёрдмэн",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 3
+            },
+            {
+                "fileName": "black-swan.jpg",
+                "enName": "Black Swan",
+                "ruName": "Чёрный лебедь",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 4
+            },
+            {
+                "fileName": "blade-runner-2049.jpg",
+                "enName": "Blade Runner 2049",
+                "ruName": "Бегущий по лезвию 2049 (2017)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 5
+            },
+            {
+                "fileName": "bone-tomahawk.jpg",
+                "enName": "Bone Tomahawk",
+                "ruName": "Костяной томагавк (2015)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 6
+            },
+            {
+                "fileName": "boss-level.jpg",
+                "enName": "Boss Level",
+                "ruName": "День курка",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 7
+            },
+            {
+                "fileName": "braveheart.jpg",
+                "enName": "Braveheart",
+                "ruName": "Храброе сердце (1995)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 8
+            },
+            {
+                "fileName": "brokeback-mountain.jpg",
+                "enName": "Brokeback Mountain",
+                "ruName": "Горбатая гора (2005)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 9
+            },
+            {
+                "fileName": "bullet-train.jpg",
+                "enName": "Bullet Train",
+                "ruName": "Быстрее пули (2022)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 10
+            },
+            {
+                "fileName": "buried.jpg",
+                "enName": "Buried",
+                "ruName": "Погребенный заживо (2010)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 11
+            },
+            {
+                "fileName": "cast-away.jpg",
+                "enName": "Cast Away",
+                "ruName": "Изгой (2000)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 12
+            },
+            {
+                "fileName": "catch-me-if-you-can.jpg",
+                "enName": "Catch Me If You Can",
+                "ruName": "Поймай меня, если сможешь (2002)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 13
+            },
+            {
+                "fileName": "chappie.jpg",
+                "enName": "Chappie",
+                "ruName": "Робот по имени Чаппи (2015)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 14
+            },
+            {
+                "fileName": "cidade-de-deus.jpg",
+                "enName": "Cidade de Deus",
+                "ruName": "Город бога (2002)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 15
+            },
+            {
+                "fileName": "coach-carter.jpg",
+                "enName": "Coach Carter",
+                "ruName": "Тренер Картер (2005)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 16
+            },
+            {
+                "fileName": "constantine.jpg",
+                "enName": "Constantine",
+                "ruName": "Константин: Повелитель тьмы (2005)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 17
+            },
+            {
+                "fileName": "contratiempo.jpg",
+                "enName": "Contratiempo",
+                "ruName": "Невидимый гость (2016)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 18
+            },
+            {
+                "fileName": "dallas-buyers-club.jpg",
+                "enName": "Dallas Buyers Club",
+                "ruName": "Далласский клуб покупателей (2013)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 19
+            },
+            {
+                "fileName": "dead-poets-society.jpg",
+                "enName": "Dead Poets Society",
+                "ruName": "Общество мертвых поэтов (1989)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 20
+            },
+            {
+                "fileName": "deadpool.jpg",
+                "enName": "Deadpool",
+                "ruName": "Дэдпул (2016)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 21
+            },
+            {
+                "fileName": "die-hard.jpg",
+                "enName": "Die Hard",
+                "ruName": "Крепкий орешек (1988)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 22
+            },
+            {
+                "fileName": "dirty-dancing.jpg",
+                "enName": "Dirty Dancing",
+                "ruName": "Грязные танцы (1987)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 23
+            },
+            {
+                "fileName": "district-9.jpg",
+                "enName": "District 9",
+                "ruName": "Район №9 (2009)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 24
+            },
+            {
+                "fileName": "django-unchained.jpg",
+                "enName": "Django Unchained",
+                "ruName": "Джанго освобожденный (2012)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 25
+            },
+            {
+                "fileName": "doctor-strange.jpg",
+                "enName": "Doctor Strange",
+                "ruName": "Доктор Стрэндж (2016)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 26
+            },
+            {
+                "fileName": "dogville.jpg",
+                "enName": "Dogville",
+                "ruName": "Догвилль (2003)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 27
+            },
+            {
+                "fileName": "donnie-darko.jpg",
+                "enName": "Donnie Darko",
+                "ruName": "Донни Дарко (2001)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 28
+            },
+            {
+                "fileName": "don't-look-up.jpg",
+                "enName": "Don't Look Up",
+                "ruName": "Не смотрите наверх (2021)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 29
+            },
+            {
+                "fileName": "dune-part-one.jpg",
+                "enName": "Dune: Part One",
+                "ruName": "Дюна (2021)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 30
+            },
+            {
+                "fileName": "eddie-the-eagle.jpg",
+                "enName": "Eddie the Eagle",
+                "ruName": "Эдди «Орёл» (2015)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 31
+            },
+            {
+                "fileName": "edge-of-tomorrow.jpg",
+                "enName": "Edge of Tomorrow",
+                "ruName": "Грань будущего (2014)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 32
+            },
+            {
+                "fileName": "end-of-watch.jpg",
+                "enName": "End of Watch",
+                "ruName": "Патруль (2012)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 33
+            },
+            {
+                "fileName": "equilibrium.jpg",
+                "enName": "Equilibrium",
+                "ruName": "Эквилибриум (2002)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 34
+            },
+            {
+                "fileName": "eternal-sunshine-of-the-spotless-mind.jpg",
+                "enName": "Eternal Sunshine of the Spotless Mind",
+                "ruName": "Вечное сияние чистого разума (2004)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 35
+            },
+            {
+                "fileName": "eurotrip.jpg",
+                "enName": "Eurotrip",
+                "ruName": "Евротур (2004)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 36
+            },
+            {
+                "fileName": "fantastic-beasts-and-where-to-find-them.jpg",
+                "enName": "Fantastic Beasts and Where to Find Them",
+                "ruName": "Фантастические твари и где они обитают (2016)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 37
+            },
+            {
+                "fileName": "fear-and-loathing-in-las-vegas.jpg",
+                "enName": "Fear and Loathing in Las Vegas",
+                "ruName": "Страх и ненависть в Лас-Вегасе (1998)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 38
+            },
+            {
+                "fileName": "fight-club.jpg",
+                "enName": "Fight Club",
+                "ruName": "Бойцовский клуб (1999)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 39
+            },
+            {
+                "fileName": "filth.jpg",
+                "enName": "Filth",
+                "ruName": "Грязь (2013)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 40
+            },
+            {
+                "fileName": "first-blood.jpg",
+                "enName": "First Blood",
+                "ruName": "Рэмбо: Первая кровь (1982)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 41
+            },
+            {
+                "fileName": "ford-v-ferrari.jpg",
+                "enName": "Ford v Ferrari",
+                "ruName": "Ford против Ferrari (2019)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 42
+            },
+            {
+                "fileName": "forrest-gump.jpg",
+                "enName": "Forrest Gump",
+                "ruName": "Форрест Гамп (1994)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 43
+            },
+            {
+                "fileName": "fracture.jpg",
+                "enName": "Fracture",
+                "ruName": "Перелом (2007)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 44
+            },
+            {
+                "fileName": "free-guy.jpg",
+                "enName": "Free Guy",
+                "ruName": "Главный герой (2021)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 45
+            },
+            {
+                "fileName": "from-dusk-till-dawn.jpg",
+                "enName": "From Dusk Till Dawn",
+                "ruName": "От заката до рассвета (1995)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 46
+            },
+            {
+                "fileName": "fury.jpg",
+                "enName": "Fury",
+                "ruName": "Ярость (2014)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 47
+            },
+            {
+                "fileName": "ghost.jpg",
+                "enName": "Ghost",
+                "ruName": "Привидение (1990)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 48
+            },
+            {
+                "fileName": "ghostbusters.jpg",
+                "enName": "Ghostbusters",
+                "ruName": "Охотники за привидениями (1984)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 49
+            },
+            {
+                "fileName": "gifted.jpg",
+                "enName": "Gifted",
+                "ruName": "Одаренная (2017)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 50
+            },
+            {
+                "fileName": "gisaengchung.jpg",
+                "enName": "Gisaengchung",
+                "ruName": "Паразиты (2019)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 51
+            },
+            {
+                "fileName": "gladiator.jpg",
+                "enName": "Gladiator",
+                "ruName": "Гладиатор (2000)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 52
+            },
+            {
+                "fileName": "gone-girl.jpg",
+                "enName": "Gone Girl",
+                "ruName": "Исчезнувшая (2014)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 53
+            },
+            {
+                "fileName": "goodfellas.jpg",
+                "enName": "Goodfellas",
+                "ruName": "Славные парни (1990)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 54
+            },
+            {
+                "fileName": "good-will-hunting.jpg",
+                "enName": "Good Will Hunting",
+                "ruName": "Умница Уилл Хантинг (1997)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 55
+            },
+            {
+                "fileName": "gran-torino.jpg",
+                "enName": "Gran Torino",
+                "ruName": "Гран Торино (2008)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 56
+            },
+            {
+                "fileName": "gravity.jpg",
+                "enName": "Gravity",
+                "ruName": "Гравитация (2013)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 57
+            },
+            {
+                "fileName": "green-book.jpg",
+                "enName": "Green Book",
+                "ruName": "Зеленая книга (2018)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 58
+            },
+            {
+                "fileName": "groundhog-day.jpg",
+                "enName": "Groundhog Day",
+                "ruName": "День сурка (1993)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 59
+            },
+            {
+                "fileName": "guardians-of-the-galaxy.jpg",
+                "enName": "Guardians of the Galaxy",
+                "ruName": "Стражи Галактики (2014)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 60
+            },
+            {
+                "fileName": "guardians-of-the-galaxy-vol.-2.jpg",
+                "enName": "Guardians of the Galaxy Vol. 2",
+                "ruName": "Стражи Галактики. Часть 2 (2017)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 61
+            },
+            {
+                "fileName": "guardians-of-the-galaxy-vol.-3.jpg",
+                "enName": "Guardians of the Galaxy Vol. 3",
+                "ruName": "Стражи Галактики. Часть 3 (2023)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 62
+            },
+            {
+                "fileName": "hachi-a-dog's-tale.jpg",
+                "enName": "Hachi: A Dog's Tale",
+                "ruName": "Хатико: Самый верный друг (2008)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 63
+            },
+            {
+                "fileName": "hacksaw-ridge.jpg",
+                "enName": "Hacksaw Ridge",
+                "ruName": "По соображениям совести (2016)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 64
+            },
+            {
+                "fileName": "hancock.jpg",
+                "enName": "Hancock",
+                "ruName": "Хэнкок (2008)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 65
+            },
+            {
+                "fileName": "harry-potter-and-the-chamber-of-secrets.jpg",
+                "enName": "Harry Potter and the Chamber of Secrets",
+                "ruName": "Гарри Поттер и Тайная комната (2002)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 66
+            },
+            {
+                "fileName": "harry-potter-and-the-deathly-hallows-part-1.jpg",
+                "enName": "Harry Potter and the Deathly Hallows: Part 1",
+                "ruName": "Гарри Поттер и Дары Смерти: Часть I (2010)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 67
+            },
+            {
+                "fileName": "harry-potter-and-the-deathly-hallows-part-2.jpg",
+                "enName": "Harry Potter and the Deathly Hallows: Part 2",
+                "ruName": "Гарри Поттер и Дары Смерти: Часть II (2011)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 68
+            },
+            {
+                "fileName": "harry-potter-and-the-goblet-of-fire.jpg",
+                "enName": "Harry Potter and the Goblet of Fire",
+                "ruName": "Гарри Поттер и Кубок огня (2005)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 69
+            },
+            {
+                "fileName": "harry-potter-and-the-half-blood-prince.jpg",
+                "enName": "Harry Potter and the Half-Blood Prince",
+                "ruName": "Гарри Поттер и Принц-полукровка (2009)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 70
+            },
+            {
+                "fileName": "harry-potter-and-the-order-of-the-phoenix.jpg",
+                "enName": "Harry Potter and the Order of the Phoenix",
+                "ruName": "Гарри Поттер и Орден Феникса (2007)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 71
+            },
+            {
+                "fileName": "harry-potter-and-the-prisoner-of-azkaban.jpg",
+                "enName": "Harry Potter and the Prisoner of Azkaban",
+                "ruName": "Гарри Поттер и узник Азкабана (2004)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 72
+            },
+            {
+                "fileName": "harry-potter-and-the-sorcerer's-stone.jpg",
+                "enName": "Harry Potter and the Sorcerer's Stone",
+                "ruName": "Гарри Поттер и философский камень (2001)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 73
+            },
+            {
+                "fileName": "heat.jpg",
+                "enName": "Heat",
+                "ruName": "Схватка (1995)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 74
+            },
+            {
+                "fileName": "her.jpg",
+                "enName": "Her",
+                "ruName": "Она (2013)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 75
+            },
+            {
+                "fileName": "hidden-figures.jpg",
+                "enName": "Hidden Figures",
+                "ruName": "Скрытые фигуры (2016)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 76
+            },
+            {
+                "fileName": "home-alone.jpg",
+                "enName": "Home Alone",
+                "ruName": "Один дома (1990)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 77
+            },
+            {
+                "fileName": "home-alone-2-lost-in-new-york.jpg",
+                "enName": "Home Alone 2: Lost in New York",
+                "ruName": "Один дома 2: Затерянный в Нью-Йорке (1992)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 78
+            },
+            {
+                "fileName": "hot-fuzz.jpg",
+                "enName": "Hot Fuzz",
+                "ruName": "Типа крутые легавые (2007)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 79
+            },
+            {
+                "fileName": "i-am-legend.jpg",
+                "enName": "I Am Legend",
+                "ruName": "Я — легенда (2007)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 80
+            },
+            {
+                "fileName": "il-bisbetico-domato.jpg",
+                "enName": "Il bisbetico domato",
+                "ruName": "Укрощение строптивого (1980)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 81
+            },
+            {
+                "fileName": "in-bruges.jpg",
+                "enName": "In Bruges",
+                "ruName": "Залечь на дно в Брюгге (2007)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 82
+            },
+            {
+                "fileName": "inception.jpg",
+                "enName": "Inception",
+                "ruName": "Начало (2010)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 83
+            },
+            {
+                "fileName": "indiana-jones-and-the-last-crusade.jpg",
+                "enName": "Indiana Jones and the Last Crusade",
+                "ruName": "Индиана Джонс и последний крестовый поход (1989)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 84
+            },
+            {
+                "fileName": "inglourious-basterds.jpg",
+                "enName": "Inglourious Basterds",
+                "ruName": "Бесславные ублюдки (2009)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 85
+            },
+            {
+                "fileName": "interstate-60.jpg",
+                "enName": "Interstate 60",
+                "ruName": "Трасса 60 (2001)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 86
+            },
+            {
+                "fileName": "interstellar.jpg",
+                "enName": "Interstellar",
+                "ruName": "Интерстеллар (2014)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 87
+            },
+            {
+                "fileName": "in-time.jpg",
+                "enName": "In Time",
+                "ruName": "Время (2011)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 88
+            },
+            {
+                "fileName": "intouchables.jpg",
+                "enName": "Intouchables",
+                "ruName": "1+1 (2011)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 89
+            },
+            {
+                "fileName": "iron-man.jpg",
+                "enName": "Iron Man",
+                "ruName": "Железный человек (2008)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 90
+            },
+            {
+                "fileName": "john-wick.jpg",
+                "enName": "John Wick",
+                "ruName": "Джон Уик (2014)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 91
+            },
+            {
+                "fileName": "joker.jpg",
+                "enName": "Joker",
+                "ruName": "Джокер (2019)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 92
+            },
+            {
+                "fileName": "jumanji.jpg",
+                "enName": "Jumanji",
+                "ruName": "Джуманджи (1995)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 93
+            },
+            {
+                "fileName": "jurassic-park(1993).jpg",
+                "enName": "Jurassic Park",
+                "ruName": "Парк Юрского периода (1993)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 94
+            },
+            {
+                "fileName": "kick-ass.jpg",
+                "enName": "Kick-Ass",
+                "ruName": "Пипец (2010)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 95
+            },
+            {
+                "fileName": "kill-bill-vol.-1.jpg",
+                "enName": "Kill Bill: Vol. 1",
+                "ruName": "Убить Билла (2003)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 96
+            },
+            {
+                "fileName": "kill-bill-vol.-2.jpg",
+                "enName": "Kill Bill: Vol. 2",
+                "ruName": "Убить Билла 2 (2004)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 97
+            },
+            {
+                "fileName": "kingdom-of-heaven.jpg",
+                "enName": "Kingdom of Heaven",
+                "ruName": "Царство небесное (2005)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 98
+            },
+            {
+                "fileName": "king-richard.jpg",
+                "enName": "King Richard",
+                "ruName": "Король Ричард (2021)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 99
+            },
+            {
+                "fileName": "knives-out.jpg",
+                "enName": "Knives Out",
+                "ruName": "Достать ножи (2019)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 100
+            },
+            {
+                "fileName": "knockin'-on-heaven's-door.jpg",
+                "enName": "Knockin' on Heaven's Door",
+                "ruName": "Достучаться до небес (1997)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 101
+            },
+            {
+                "fileName": "la-la-land.jpg",
+                "enName": "La La Land",
+                "ruName": "Ла-Ла Ленд (2016)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 102
+            },
+            {
+                "fileName": "lawless.jpg",
+                "enName": "Lawless",
+                "ruName": "Самый пьяный округ в мире (2012)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 103
+            },
+            {
+                "fileName": "leon.jpg",
+                "enName": "Leon",
+                "ruName": "Леон (1994)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 104
+            },
+            {
+                "fileName": "le-professionnel.jpg",
+                "enName": "Le professionnel",
+                "ruName": "Профессионал (1981)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 105
+            },
+            {
+                "fileName": "life-of-pi.jpg",
+                "enName": "Life of Pi",
+                "ruName": "Жизнь Пи (2012)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 106
+            },
+            {
+                "fileName": "limitless.jpg",
+                "enName": "Limitless",
+                "ruName": "Области тьмы (2011)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 107
+            },
+            {
+                "fileName": "lion.jpg",
+                "enName": "Lion",
+                "ruName": "Лев (2016)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 108
+            },
+            {
+                "fileName": "lock,-stock-and-two-smoking-barrels.jpg",
+                "enName": "Lock, Stock and Two Smoking Barrels",
+                "ruName": "Карты, деньги, два ствола (1998)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 109
+            },
+            {
+                "fileName": "logan.jpg",
+                "enName": "Logan",
+                "ruName": "Логан (2017)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 110
+            },
+            {
+                "fileName": "lord-of-war.jpg",
+                "enName": "Lord of War",
+                "ruName": "Оружейный барон (2005)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 111
+            },
+            {
+                "fileName": "lucky-number-slevin.jpg",
+                "enName": "Lucky Number Slevin",
+                "ruName": "Счастливое число Слевина (2005)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 112
+            },
+            {
+                "fileName": "lung-hing-foo-dai.jpg",
+                "enName": "Lung hing foo dai",
+                "ruName": "Доспехи Бога (1986)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 113
+            },
+            {
+                "fileName": "mad-max-fury-road.jpg",
+                "enName": "Mad Max: Fury Road",
+                "ruName": "Безумный Макс: Дорога ярости (2015)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 114
+            },
+            {
+                "fileName": "malena.jpg",
+                "enName": "Malena",
+                "ruName": "Малена (2000)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 115
+            },
+            {
+                "fileName": "man-on-fire-(2004).jpg",
+                "enName": "Man on Fire",
+                "ruName": "Гнев (2004)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 116
+            },
+            {
+                "fileName": "meet-joe-black.jpg",
+                "enName": "Meet Joe Black",
+                "ruName": "Знакомьтесь, Джо Блэк (1998)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 117
+            },
+            {
+                "fileName": "memento.jpg",
+                "enName": "Memento",
+                "ruName": "Мементо (2000)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 118
+            },
+            {
+                "fileName": "men-in-black.jpg",
+                "enName": "Men in Black",
+                "ruName": "Люди в чёрном (1997)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 119
+            },
+            {
+                "fileName": "million-dollar-baby.jpg",
+                "enName": "Million Dollar Baby",
+                "ruName": "Малышка на миллион (2004)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 120
+            },
+            {
+                "fileName": "miss-sloane.jpg",
+                "enName": "Miss Sloane",
+                "ruName": "Опасная игра Слоун (2016)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 121
+            },
+            {
+                "fileName": "moneyball.jpg",
+                "enName": "Moneyball",
+                "ruName": "Человек, который изменил всё (2011)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 122
+            },
+            {
+                "fileName": "moon.jpg",
+                "enName": "Moon",
+                "ruName": "Луна 2112 (2009)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 123
+            },
+            {
+                "fileName": "mr.-&-mrs.-smith.jpg",
+                "enName": "Mr. & Mrs. Smith",
+                "ruName": "Мистер и миссис Смит (2005)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 124
+            },
+            {
+                "fileName": "nightcrawler.jpg",
+                "enName": "Nightcrawler",
+                "ruName": "Стрингер (2013)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 125
+            },
+            {
+                "fileName": "nobody.jpg",
+                "enName": "Nobody",
+                "ruName": "Никто (2021)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 126
+            },
+            {
+                "fileName": "no-country-for-old-men.jpg",
+                "enName": "No Country for Old Men",
+                "ruName": "Старикам тут не место (2007)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 127
+            },
+            {
+                "fileName": "now-you-see-me.jpg",
+                "enName": "Now You See Me",
+                "ruName": "Иллюзия обмана (2013)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 128
+            },
+            {
+                "fileName": "oblivion.jpg",
+                "enName": "Oblivion",
+                "ruName": "Обливион (2013)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 129
+            },
+            {
+                "fileName": "once-upon-a-time-in...-hollywood.jpg",
+                "enName": "Once Upon a Time in... Hollywood",
+                "ruName": "Однажды в… Голливуде (2019)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 130
+            },
+            {
+                "fileName": "one-flew-over-the-cuckoo's-nest.jpg",
+                "enName": "One Flew Over the Cuckoo's Nest",
+                "ruName": "Пролетая над гнездом кукушки (1975)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 131
+            },
+            {
+                "fileName": "only-the-brave.jpg",
+                "enName": "Only the Brave",
+                "ruName": "Дело храбрых (2017)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 132
+            },
+            {
+                "fileName": "perfetti-sconosciuti.jpg",
+                "enName": "Perfetti sconosciuti",
+                "ruName": "Идеальные незнакомцы (2015)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 133
+            },
+            {
+                "fileName": "perfume-the-story-of-a-murderer.jpg",
+                "enName": "Perfume: The Story of a Murderer",
+                "ruName": "Парфюмер: История одного убийцы (2006)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 134
+            },
+            {
+                "fileName": "pirates-of-the-caribbean-at-world's-end.jpg",
+                "enName": "Pirates of the Caribbean: At World's End",
+                "ruName": "Пираты Карибского моря: На краю света (2007)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 135
+            },
+            {
+                "fileName": "pirates-of-the-caribbean-dead-man's-chest.jpg",
+                "enName": "Pirates of the Caribbean: Dead Man's Chest",
+                "ruName": "Пираты Карибского моря: Сундук мертвеца (2006)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 136
+            },
+            {
+                "fileName": "pirates-of-the-caribbean-the-curse-of-the-black-pearl.jpg",
+                "enName": "Pirates of the Caribbean: The Curse of the Black Pearl",
+                "ruName": "Пираты Карибского моря: Проклятие Черной жемчужины (2003)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 137
+            },
+            {
+                "fileName": "predator.jpg",
+                "enName": "Predator",
+                "ruName": "Хищник (1987)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 138
+            },
+            {
+                "fileName": "pretty-woman.jpg",
+                "enName": "Pretty Woman",
+                "ruName": "Красотка (1990)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 139
+            },
+            {
+                "fileName": "pride-&-prejudice.jpg",
+                "enName": "Pride & Prejudice",
+                "ruName": "Гордость и предубеждение (2005)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 140
+            },
+            {
+                "fileName": "pulp-fiction.jpg",
+                "enName": "Pulp Fiction",
+                "ruName": "Криминальное чтиво (1994)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 141
+            },
+            {
+                "fileName": "purple-hearts.jpg",
+                "enName": "Purple Hearts",
+                "ruName": "Пурпурные сердца (2022)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 142
+            },
+            {
+                "fileName": "rain-man.jpg",
+                "enName": "Rain Man",
+                "ruName": "Человек дождя (1988)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 143
+            },
+            {
+                "fileName": "real-steel.jpg",
+                "enName": "Real Steel",
+                "ruName": "Живая сталь (2011)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 144
+            },
+            {
+                "fileName": "requiem-for-a-dream.jpg",
+                "enName": "Requiem for a Dream",
+                "ruName": "Реквием по мечте (2000)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 145
+            },
+            {
+                "fileName": "reservoir-dogs.jpg",
+                "enName": "Reservoir Dogs",
+                "ruName": "Бешеные псы (1991)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 146
+            },
+            {
+                "fileName": "rocknrolla.jpg",
+                "enName": "Rocknrolla",
+                "ruName": "Рок-н-рольщик (2008)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 147
+            },
+            {
+                "fileName": "rocky.jpg",
+                "enName": "Rocky",
+                "ruName": "Рокки (1976)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 148
+            },
+            {
+                "fileName": "running-scared-(2005).jpg",
+                "enName": "Running Scared",
+                "ruName": "Беги без оглядки (2005)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 149
+            },
+            {
+                "fileName": "rush.jpg",
+                "enName": "Rush",
+                "ruName": "Гонка (2013)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 150
+            },
+            {
+                "fileName": "saving-private-ryan.jpg",
+                "enName": "Saving Private Ryan",
+                "ruName": "Спасти рядового Райана (1998)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 151
+            },
+            {
+                "fileName": "scarface.jpg",
+                "enName": "Scarface",
+                "ruName": "Лицо со шрамом (1983)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 152
+            },
+            {
+                "fileName": "schindler's-list.jpg",
+                "enName": "Schindler's List",
+                "ruName": "Список Шиндлера (1993)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 153
+            },
+            {
+                "fileName": "scott-pilgrim-vs.-the-world.jpg",
+                "enName": "Scott Pilgrim vs. the World",
+                "ruName": "Скотт Пилигрим против всех (2010)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 154
+            },
+            {
+                "fileName": "se7en.jpg",
+                "enName": "Se7en",
+                "ruName": "Семь (1995)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 155
+            },
+            {
+                "fileName": "seven-pounds.jpg",
+                "enName": "Seven Pounds",
+                "ruName": "Семь жизней (2008)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 156
+            },
+            {
+                "fileName": "shooter.jpg",
+                "enName": "Shooter",
+                "ruName": "Стрелок (2007)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 157
+            },
+            {
+                "fileName": "shot-caller.jpg",
+                "enName": "Shot Caller",
+                "ruName": "Выстрел в пустоту (2015)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 158
+            },
+            {
+                "fileName": "shutter-island.jpg",
+                "enName": "Shutter Island",
+                "ruName": "Остров проклятых (2009)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 159
+            },
+            {
+                "fileName": "sicario.jpg",
+                "enName": "Sicario",
+                "ruName": "Убийца (2015)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 160
+            },
+            {
+                "fileName": "sin-city.jpg",
+                "enName": "Sin City",
+                "ruName": "Город грехов (2005)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 161
+            },
+            {
+                "fileName": "slumdog-millionaire.jpg",
+                "enName": "Slumdog Millionaire",
+                "ruName": "Миллионер из трущоб (2008)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 162
+            },
+            {
+                "fileName": "snatch.jpg",
+                "enName": "Snatch",
+                "ruName": "Большой куш (2000)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 163
+            },
+            {
+                "fileName": "source-code.jpg",
+                "enName": "Source Code",
+                "ruName": "Исходный код (2011)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 164
+            },
+            {
+                "fileName": "spider-man-(2002).jpg",
+                "enName": "Spider-Man",
+                "ruName": "Человек-паук (2002)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 165
+            },
+            {
+                "fileName": "spider-man-far-from-home.jpg",
+                "enName": "Spider-Man: Far from Home",
+                "ruName": "Человек-паук: Вдали от дома (2019)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 166
+            },
+            {
+                "fileName": "star-trek(2009).jpg",
+                "enName": "Star Trek",
+                "ruName": "Звездный путь (2009)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 167
+            },
+            {
+                "fileName": "star-wars-episode-ii---attack-of-the-clones.jpg",
+                "enName": "Star Wars: Episode II - Attack of the Clones",
+                "ruName": "Звёздные войны: Эпизод 2 — Атака клонов (2002)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 168
+            },
+            {
+                "fileName": "star-wars-episode-iii---revenge-of-the-sith.jpg",
+                "enName": "Star Wars: Episode III - Revenge of the Sith",
+                "ruName": "Звёздные войны: Эпизод 3 — Месть ситхов (2005)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 169
+            },
+            {
+                "fileName": "star-wars-episode-i---the-phantom-menace.jpg",
+                "enName": "Star Wars: Episode I - The Phantom Menace",
+                "ruName": "Звёздные войны: Эпизод 1 — Скрытая угроза (1999)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 170
+            },
+            {
+                "fileName": "star-wars-episode-vi---return-of-the-jedi.jpg",
+                "enName": "Star Wars: Episode VI - Return of the Jedi",
+                "ruName": "Звёздные войны: Эпизод 6 — Возвращение Джедая (1983)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 171
+            },
+            {
+                "fileName": "star-wars-episode-v---the-empire-strikes-back.jpg",
+                "enName": "Star Wars: Episode V - The Empire Strikes Back",
+                "ruName": "Звёздные войны: Эпизод 5 — Империя наносит ответный удар (1980)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 172
+            },
+            {
+                "fileName": "taken.jpg",
+                "enName": "Taken",
+                "ruName": "Заложница (2007)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 173
+            },
+            {
+                "fileName": "taxi.jpg",
+                "enName": "Taxi",
+                "ruName": "Такси (1998)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 174
+            },
+            {
+                "fileName": "taxi-driver.jpg",
+                "enName": "Taxi Driver",
+                "ruName": "Таксист (1976)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 175
+            },
+            {
+                "fileName": "tenet.jpg",
+                "enName": "Tenet",
+                "ruName": "Довод (2020)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 176
+            },
+            {
+                "fileName": "terminator-2-judgment-day.jpg",
+                "enName": "Terminator 2: Judgment Day",
+                "ruName": "Терминатор 2: Судный день (1991)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 177
+            },
+            {
+                "fileName": "the-art-of-racing-in-the-rain.jpg",
+                "enName": "The Art of Racing in the Rain",
+                "ruName": "Невероятный мир глазами Энцо (2019)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 178
+            },
+            {
+                "fileName": "the-avengers.jpg",
+                "enName": "The Avengers",
+                "ruName": "Мстители (2012)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 179
+            },
+            {
+                "fileName": "the-aviator.jpg",
+                "enName": "The Aviator",
+                "ruName": "Авиатор (2004)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 180
+            },
+            {
+                "fileName": "the-big-lebowski.jpg",
+                "enName": "The Big Lebowski",
+                "ruName": "Большой Лебовски (1998)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 181
+            },
+            {
+                "fileName": "the-blind-side.jpg",
+                "enName": "The Blind Side",
+                "ruName": "Невидимая сторона (2009)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 182
+            },
+            {
+                "fileName": "the-book-of-eli.jpg",
+                "enName": "The Book of Eli",
+                "ruName": "Книга Илая (2009)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 183
+            },
+            {
+                "fileName": "the-boy-in-the-striped-pajamas.jpg",
+                "enName": "The Boy in the Striped Pajamas",
+                "ruName": "Мальчик в полосатой пижаме (2008)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 184
+            },
+            {
+                "fileName": "the-bucket-list.jpg",
+                "enName": "The Bucket List",
+                "ruName": "Пока не сыграл в ящик (2007)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 185
+            },
+            {
+                "fileName": "the-butterfly-effect.jpg",
+                "enName": "The Butterfly Effect",
+                "ruName": "Эффект бабочки (2003)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 186
+            },
+            {
+                "fileName": "the-curious-case-of-benjamin-button.jpg",
+                "enName": "The Curious Case of Benjamin Button",
+                "ruName": "Загадочная история Бенджамина Баттона (2008)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 187
+            },
+            {
+                "fileName": "the-dark-knight.jpg",
+                "enName": "The Dark Knight",
+                "ruName": "Темный рыцарь (2008)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 188
+            },
+            {
+                "fileName": "the-dark-knight-rises.jpg",
+                "enName": "The Dark Knight Rises",
+                "ruName": "Темный рыцарь: Возрождение легенды (2012)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 189
+            },
+            {
+                "fileName": "the-day-after-tomorrow.jpg",
+                "enName": "The Day After Tomorrow",
+                "ruName": "Послезавтра (2004)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 190
+            },
+            {
+                "fileName": "the-departed.jpg",
+                "enName": "The Departed",
+                "ruName": "Отступники (2006)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 191
+            },
+            {
+                "fileName": "the-devil's-advocate.jpg",
+                "enName": "The Devil's Advocate",
+                "ruName": "Адвокат дьявола (1997)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 192
+            },
+            {
+                "fileName": "the-fast-and-the-furious.jpg",
+                "enName": "The Fast and the Furious",
+                "ruName": "Форсаж (2001)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 193
+            },
+            {
+                "fileName": "the-fifth-element.jpg",
+                "enName": "The Fifth Element",
+                "ruName": "Пятый элемент (1997)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 194
+            },
+            {
+                "fileName": "the-game.jpg",
+                "enName": "The Game",
+                "ruName": "Игра (1997)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 195
+            },
+            {
+                "fileName": "the-gentlemen.jpg",
+                "enName": "The gentlemen",
+                "ruName": "Джентльмены (2019)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 196
+            },
+            {
+                "fileName": "the-girl-with-the-dragon-tattoo.jpg",
+                "enName": "The Girl with the Dragon Tattoo",
+                "ruName": "Девушка с татуировкой дракона (2011)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 197
+            },
+            {
+                "fileName": "the-godfather.jpg",
+                "enName": "The Godfather",
+                "ruName": "Крестный отец (1972)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 198
+            },
+            {
+                "fileName": "the-godfather-part-ii.jpg",
+                "enName": "The Godfather: Part II",
+                "ruName": "Крестный отец 2 (1974)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 199
+            },
+            {
+                "fileName": "the-grand-budapest-hotel.jpg",
+                "enName": "The Grand Budapest Hotel",
+                "ruName": "Отель «Гранд Будапешт» (2014)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 200
+            },
+            {
+                "fileName": "the-great-gatsby.jpg",
+                "enName": "The Great Gatsby",
+                "ruName": "Великий Гэтсби (2013)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 201
+            },
+            {
+                "fileName": "the-green-mile.jpg",
+                "enName": "The Green Mile",
+                "ruName": "Зеленая миля (1999)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 202
+            },
+            {
+                "fileName": "the-guard.jpg",
+                "enName": "The Guard",
+                "ruName": "Однажды в Ирландии (2011)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 203
+            },
+            {
+                "fileName": "the-hateful-eight.jpg",
+                "enName": "The Hateful Eight",
+                "ruName": "Омерзительная восьмерка (2015)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 204
+            },
+            {
+                "fileName": "the-help.jpg",
+                "enName": "The Help",
+                "ruName": "Прислуга (2011)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 205
+            },
+            {
+                "fileName": "the-hobbit-an-unexpected-journey.jpg",
+                "enName": "The Hobbit: An Unexpected Journey",
+                "ruName": "Хоббит: Нежданное путешествие (2012)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 206
+            },
+            {
+                "fileName": "the-hobbit-the-battle-of-the-five-armies.jpg",
+                "enName": "The Hobbit: The Battle of the Five Armies",
+                "ruName": "Хоббит: Битва пяти воинств (2014)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 207
+            },
+            {
+                "fileName": "the-hobbit-the-desolation-of-smaug.jpg",
+                "enName": "The Hobbit: The Desolation of Smaug",
+                "ruName": "Хоббит: Пустошь Смауга (2013)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 208
+            },
+            {
+                "fileName": "the-holiday.jpg",
+                "enName": "The Holiday",
+                "ruName": "Отпуск по обмену (2006)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 209
+            },
+            {
+                "fileName": "the-imitation-game.jpg",
+                "enName": "The Imitation Game",
+                "ruName": "Игра в имитацию (2014)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 210
+            },
+            {
+                "fileName": "the-irishman.jpg",
+                "enName": "The Irishman",
+                "ruName": "Ирландец (2019)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 211
+            },
+            {
+                "fileName": "the-king's-speech.jpg",
+                "enName": "The King's Speech",
+                "ruName": "Король говорит! (2010)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 212
+            },
+            {
+                "fileName": "the-last-duel.jpg",
+                "enName": "The Last Duel",
+                "ruName": "Последняя дуэль (2021)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 213
+            },
+            {
+                "fileName": "the-last-samurai.jpg",
+                "enName": "The Last Samurai",
+                "ruName": "Последний самурай (2003)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 214
+            },
+            {
+                "fileName": "the-life-of-david-gale.jpg",
+                "enName": "The Life of David Gale",
+                "ruName": "Жизнь Дэвида Гейла (2002)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 215
+            },
+            {
+                "fileName": "the-lincoln-lawyer.jpg",
+                "enName": "The Lincoln Lawyer",
+                "ruName": "Линкольн для адвоката (2011)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 216
+            },
+            {
+                "fileName": "the-lord-of-the-rings-the-fellowship-of-the-ring.jpg",
+                "enName": "The Lord of the Rings: The Fellowship of the Ring",
+                "ruName": "Властелин колец: Братство Кольца (2001)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 217
+            },
+            {
+                "fileName": "the-lord-of-the-rings-the-return-of-the-king.jpg",
+                "enName": "The Lord of the Rings: The Return of the King",
+                "ruName": "Властелин колец: Возвращение короля (2003)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 218
+            },
+            {
+                "fileName": "the-lord-of-the-rings-the-two-towers.jpg",
+                "enName": "The Lord of the Rings: The Two Towers",
+                "ruName": "Властелин колец: Две крепости (2002)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 219
+            },
+            {
+                "fileName": "the-martian.jpg",
+                "enName": "The Martian",
+                "ruName": "Марсианин (2015)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 220
+            },
+            {
+                "fileName": "the-mask.jpg",
+                "enName": "The Mask",
+                "ruName": "Маска (1994)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 221
+            },
+            {
+                "fileName": "the-matrix.jpg",
+                "enName": "The Matrix",
+                "ruName": "Матрица (1999)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 222
+            },
+            {
+                "fileName": "the-mist.jpg",
+                "enName": "The Mist",
+                "ruName": "Мгла (2007)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 223
+            },
+            {
+                "fileName": "the-mummy.jpg",
+                "enName": "The Mummy",
+                "ruName": "Мумия (1999)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 224
+            },
+            {
+                "fileName": "the-notebook.jpg",
+                "enName": "The Notebook",
+                "ruName": "Дневник памяти (2004)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 225
+            },
+            {
+                "fileName": "the-pianist.jpg",
+                "enName": "The Pianist",
+                "ruName": "Пианист (2002)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 226
+            },
+            {
+                "fileName": "the-prestige.jpg",
+                "enName": "The Prestige",
+                "ruName": "Престиж (2006)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 227
+            },
+            {
+                "fileName": "the-pursuit-of-happyness.jpg",
+                "enName": "The Pursuit of Happyness",
+                "ruName": "В погоне за счастьем (2006)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 228
+            },
+            {
+                "fileName": "the-revenant.jpg",
+                "enName": "The Revenant",
+                "ruName": "Выживший (2015)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 229
+            },
+            {
+                "fileName": "there-will-be-blood.jpg",
+                "enName": "There Will Be Blood",
+                "ruName": "Нефть (2007)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 230
+            },
+            {
+                "fileName": "the-rock.jpg",
+                "enName": "The Rock",
+                "ruName": "Скала (1996)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 231
+            },
+            {
+                "fileName": "the-secret-life-of-walter-mitty.jpg",
+                "enName": "The Secret Life of Walter Mitty",
+                "ruName": "Невероятная жизнь Уолтера Митти (2013)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 232
+            },
+            {
+                "fileName": "the-shawshank-redemption.jpg",
+                "enName": "The Shawshank Redemption",
+                "ruName": "Побег из Шоушенка (1994)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 233
+            },
+            {
+                "fileName": "the-shining.jpg",
+                "enName": "The Shining",
+                "ruName": "Сияние (1980)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 234
+            },
+            {
+                "fileName": "the-silence-of-the-lambs.jpg",
+                "enName": "The Silence of the Lambs",
+                "ruName": "Молчание ягнят (1990)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 235
+            },
+            {
+                "fileName": "the-sixth-sense.jpg",
+                "enName": "The Sixth Sense",
+                "ruName": "Шестое чувство (1999)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 236
+            },
+            {
+                "fileName": "the-social-network.jpg",
+                "enName": "The Social Network",
+                "ruName": "Социальная сеть (2010)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 237
+            },
+            {
+                "fileName": "the-terminal.jpg",
+                "enName": "The Terminal",
+                "ruName": "Терминал (2004)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 238
+            },
+            {
+                "fileName": "the-terminator.jpg",
+                "enName": "The Terminator",
+                "ruName": "Терминатор (1984)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 239
+            },
+            {
+                "fileName": "the-theory-of-everything.jpg",
+                "enName": "The Theory of Everything",
+                "ruName": "Вселенная Стивена Хокинга (2014)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 240
+            },
+            {
+                "fileName": "the-thing.jpg",
+                "enName": "The Thing",
+                "ruName": "Нечто (1982)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 241
+            },
+            {
+                "fileName": "the-truman-show.jpg",
+                "enName": "The Truman Show",
+                "ruName": "Шоу Трумана (1998)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 242
+            },
+            {
+                "fileName": "the-wolf-of-wall-street.jpg",
+                "enName": "The Wolf of Wall Street",
+                "ruName": "Волк с Уолл-стрит (2013)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 243
+            },
+            {
+                "fileName": "titanic.jpg",
+                "enName": "Titanic",
+                "ruName": "Титаник (1997)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 244
+            },
+            {
+                "fileName": "top-gun-maverick.jpg",
+                "enName": "Top Gun: Maverick",
+                "ruName": "Топ Ган: Мэверик (2022)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 245
+            },
+            {
+                "fileName": "transformers.jpg",
+                "enName": "Transformers",
+                "ruName": "Трансформеры (2007)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 246
+            },
+            {
+                "fileName": "troy.jpg",
+                "enName": "Troy",
+                "ruName": "Троя (2004)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 247
+            },
+            {
+                "fileName": "true-grit.jpg",
+                "enName": "True Grit",
+                "ruName": "Железная хватка (2010)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 248
+            },
+            {
+                "fileName": "twelve-monkeys.jpg",
+                "enName": "Twelve Monkeys",
+                "ruName": "12 обезьян (1995)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 249
+            },
+            {
+                "fileName": "upgrade.jpg",
+                "enName": "Upgrade",
+                "ruName": "Апгрейд (2018)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 250
+            },
+            {
+                "fileName": "war-of-the-worlds-(2005).jpg",
+                "enName": "War of the Worlds",
+                "ruName": "Война миров (2005)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 251
+            },
+            {
+                "fileName": "warrior.jpg",
+                "enName": "Warrior",
+                "ruName": "Воин (2011)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 252
+            },
+            {
+                "fileName": "watchmen.jpg",
+                "enName": "Watchmen",
+                "ruName": "Хранители (2009)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 253
+            },
+            {
+                "fileName": "what-we-do-in-the-shadows.jpg",
+                "enName": "What We Do in the Shadows",
+                "ruName": "Реальные упыри (2014)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 254
+            },
+            {
+                "fileName": "what-women-want.jpg",
+                "enName": "What Women Want",
+                "ruName": "Чего хотят женщины (2000)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 255
+            },
+            {
+                "fileName": "whiplash.jpg",
+                "enName": "Whiplash",
+                "ruName": "Одержимость (2013)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 256
+            },
+            {
+                "fileName": "wind-river.jpg",
+                "enName": "Wind River",
+                "ruName": "Ветреная река (2016)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 257
+            },
+            {
+                "fileName": "wonder.jpg",
+                "enName": "Wonder",
+                "ruName": "Чудо (2017)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 258
+            },
+            {
+                "fileName": "wrath-of-man.jpg",
+                "enName": "Wrath of Man",
+                "ruName": "Гнев человеческий (2021)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 259
+            },
+            {
+                "fileName": "yes-man.jpg",
+                "enName": "Yes Man",
+                "ruName": "Всегда говори «ДА» (2008)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 260
+            },
+            {
+                "fileName": "12-years-a-slave.jpg",
+                "enName": "12 Years a Slave",
+                "ruName": "12 лет рабства (2013)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 261
+            },
+            {
+                "fileName": "21.jpg",
+                "enName": "21",
+                "ruName": "Двадцать одно (2008)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 262
+            },
+            {
+                "fileName": "28-days-later.jpg",
+                "enName": "28 Days Later...",
+                "ruName": "28 дней спустя (2002)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 263
+            },
+            {
+                "fileName": "127-hours.jpg",
+                "enName": "127 Hours",
+                "ruName": "127 часов (2010)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 264
+            },
+            {
+                "fileName": "1408.jpg",
+                "enName": "1408",
+                "ruName": "1408 (2007)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 265
+            },
+            {
+                "fileName": "1917.jpg",
+                "enName": "1917",
+                "ruName": "1917 (2019)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 266
+            },
+            {
+                "fileName": "a-beautiful-mind.jpg",
+                "enName": "A Beautiful Mind",
+                "ruName": "Игры разума (2001)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 267
+            },
+            {
+                "fileName": "a-dogs-purpose.jpg",
+                "enName": "A Dog's Purpose",
+                "ruName": "Собачья жизнь (2017)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 268
+            },
+            {
+                "fileName": "alien-1979.jpg",
+                "enName": "Alien 1979",
+                "ruName": "Чужой (1979)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 269
+            },
+            {
+                "fileName": "aliens.jpg",
+                "enName": "Aliens",
+                "ruName": "Чужие (1986)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 270
+            },
+            {
+                "fileName": "american-beauty.jpg",
+                "enName": "American Beauty",
+                "ruName": "Красота по-американски (1999)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 271
+            },
+            {
+                "fileName": "american-gangster.jpg",
+                "enName": "American Gangster",
+                "ruName": "Гангстер (2007)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 272
+            },
+            {
+                "fileName": "american-history-x.jpg",
+                "enName": "American History X",
+                "ruName": "Американская история X (1998)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 273
+            },
+            {
+                "fileName": "atonement.jpg",
+                "enName": "Atonement",
+                "ruName": "Искупление (2007)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 274
+            },
+            {
+                "fileName": "avatar.jpg",
+                "enName": "Avatar",
+                "ruName": "Аватар (2009)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 275
+            },
+            {
+                "fileName": "avengers-endgame.jpg",
+                "enName": "Avengers: Endgame",
+                "ruName": "Мстители: Финал (2019)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 276
+            },
+            {
+                "fileName": "avengers-infinity-war.jpg",
+                "enName": "Avengers: Infinity War",
+                "ruName": "Мстители: Война бесконечности (2018)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 277
+            },
+            {
+                "fileName": "back-to-the-future.jpg",
+                "enName": "Back to the Future",
+                "ruName": "Назад в будущее (1985)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 278
+            },
+            {
+                "fileName": "back-to-the-future-part-2.jpg",
+                "enName": "Back to the Future Part II",
+                "ruName": "Назад в будущее 2 (1989)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 279
+            },
+            {
+                "fileName": "back-to-the-future-part-3.jpg",
+                "enName": "Back to the Future Part III",
+                "ruName": "Назад в будущее 3 (1990)",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 280
+            }
+        ],
+
+    "games":
+        [
+            {
+                "fileName": "colin-mcrae-dirt-2.jpg",
+                "enName": "Colin McRae: DiRT 2",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 1
+            },
+            {
+                "fileName": "command-&-conquer-3-tiberium-wars.jpg",
+                "enName": "Command & Conquer 3: Tiberium Wars",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 2
+            },
+            {
+                "fileName": "company-of-heroes.jpg",
+                "enName": "Company of Heroes",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 3
+            },
+            {
+                "fileName": "crysis.jpg",
+                "enName": "Crysis",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 4
+            },
+            {
+                "fileName": "crysis-2.jpg",
+                "enName": "Crysis 2",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 5
+            },
+            {
+                "fileName": "cuphead.jpg",
+                "enName": "Cuphead",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 6
+            },
+            {
+                "fileName": "cyberpunk-2077.jpg",
+                "enName": "Cyberpunk 2077",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0.01,
+                "id": 7
+            },
+            {
+                "fileName": "dark-souls.jpg",
+                "enName": "Dark Souls",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 8
+            },
+            {
+                "fileName": "dark-souls-2-scholar-of-the-first-sin.jpg",
+                "enName": "Dark Souls II: Scholar of the First Sin",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 9
+            },
+            {
+                "fileName": "dark-souls-3.jpg",
+                "enName": "Dark Souls 3",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0.01,
+                "id": 10
+            },
+            {
+                "fileName": "dead-space.jpg",
+                "enName": "Dead Space",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 11
+            },
+            {
+                "fileName": "dead-space-2.jpg",
+                "enName": "Dead Space 2",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 12
+            },
+            {
+                "fileName": "dead-space-3.jpg",
+                "enName": "Dead Space 3",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0.01,
+                "id": 13
+            },
+            {
+                "fileName": "deathloop.jpg",
+                "enName": "Deathloop",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 14
+            },
+            {
+                "fileName": "death-stranding.jpg",
+                "enName": "Death Stranding",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 15
+            },
+            {
+                "fileName": "destiny-2.jpg",
+                "enName": "Destiny 2",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 16
+            },
+            {
+                "fileName": "detroit-become-human.jpg",
+                "enName": "Detroit: Become Human",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0.01,
+                "id": 17
+            },
+            {
+                "fileName": "deus-ex-human-revolution.jpg",
+                "enName": "Deus Ex: Human Revolution",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 18
+            },
+            {
+                "fileName": "devil-may-cry-4.jpg",
+                "enName": "Devil May Cry 4",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 19
+            },
+            {
+                "fileName": "devil-may-cry-5.jpg",
+                "enName": "Devil May Cry 5",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 20
+            },
+            {
+                "fileName": "diablo-2.jpg",
+                "enName": "Diablo 2",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 21
+            },
+            {
+                "fileName": "diablo-3.jpg",
+                "enName": "Diablo 3",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 22
+            },
+            {
+                "fileName": "dirt-rally.jpg",
+                "enName": "DiRT Rally",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 23
+            },
+            {
+                "fileName": "dishonored.jpg",
+                "enName": "Dishonored",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 24
+            },
+            {
+                "fileName": "dishonored-2.jpg",
+                "enName": "Dishonored 2",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 25
+            },
+            {
+                "fileName": "dmc-devil-may-cry.jpg",
+                "enName": "DmC: Devil May Cry",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 26
+            },
+            {
+                "fileName": "doom-(2016).jpg",
+                "enName": "Doom (2016)",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 27
+            },
+            {
+                "fileName": "doom-eternal.jpg",
+                "enName": "Doom Eternal",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 28
+            },
+            {
+                "fileName": "dragon-age-origins.jpg",
+                "enName": "Dragon Age: Origins",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 29
+            },
+            {
+                "fileName": "elden-ring.jpg",
+                "enName": "Elden Ring",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0.01,
+                "id": 30
+            },
+            {
+                "fileName": "euro-truck-simulator-2.jpg",
+                "enName": "Euro Truck Simulator 2",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 31
+            },
+            {
+                "fileName": "fable-2.jpg",
+                "enName": "Fable 2",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 32
+            },
+            {
+                "fileName": "fable-the-lost-chapters.jpg",
+                "enName": "Fable: The Lost Chapters",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 33
+            },
+            {
+                "fileName": "fahrenheit.jpg",
+                "enName": "Fahrenheit",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 34
+            },
+            {
+                "fileName": "fallout-3.jpg",
+                "enName": "Fallout 3",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 35
+            },
+            {
+                "fileName": "fallout-4.jpg",
+                "enName": "Fallout 4",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0.01,
+                "id": 36
+            },
+            {
+                "fileName": "fallout-new-vegas.jpg",
+                "enName": "Fallout: New Vegas",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 37
+            },
+            {
+                "fileName": "far-cry.jpg",
+                "enName": "Far Cry",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 38
+            },
+            {
+                "fileName": "far-cry-3.jpg",
+                "enName": "Far Cry 3",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0.01,
+                "id": 39
+            },
+            {
+                "fileName": "far-cry-4.jpg",
+                "enName": "Far Cry 4",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 40
+            },
+            {
+                "fileName": "forza-horizon-5.jpg",
+                "enName": "Forza Horizon 5",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 41
+            },
+            {
+                "fileName": "forza-motorsport-7.jpg",
+                "enName": "Forza Motorsport 7",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 42
+            },
+            {
+                "fileName": "gears-of-war-2.jpg",
+                "enName": "Gears of War 2",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 43
+            },
+            {
+                "fileName": "ghost-of-tsushima.jpg",
+                "enName": "Ghost of Tsushima",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 44
+            },
+            {
+                "fileName": "god-of-war-(2018).jpg",
+                "enName": "God of War (2018)",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0.01,
+                "id": 45
+            },
+            {
+                "fileName": "god-of-war-3.jpg",
+                "enName": "God of War III",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 46
+            },
+            {
+                "fileName": "gothic-2.jpg",
+                "enName": "Gothic 2",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 47
+            },
+            {
+                "fileName": "grand-theft-auto-4.jpg",
+                "enName": "Grand Theft Auto IV",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 48
+            },
+            {
+                "fileName": "grand-theft-auto-san-andreas.jpg",
+                "enName": "Grand Theft Auto: San Andreas",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0.01,
+                "id": 49
+            },
+            {
+                "fileName": "grand-theft-auto-vice-city.jpg",
+                "enName": "Grand Theft Auto: Vice City",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 50
+            },
+            {
+                "fileName": "gran-turismo-7.jpg",
+                "enName": "Gran Turismo 7",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 51
+            },
+            {
+                "fileName": "gta5.jpg",
+                "enName": "Grand Theft Auto V",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0.01,
+                "id": 52
+            },
+            {
+                "fileName": "half-life-2.jpg",
+                "enName": "Half-Life 2",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 53
+            },
+            {
+                "fileName": "heroes-of-might-and-magic-5.jpg",
+                "enName": "Heroes of Might and Magic 5",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 54
+            },
+            {
+                "fileName": "heroes-of-might-and-magic-iii.jpg",
+                "enName": "Heroes of Might & Magic III",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 55
+            },
+            {
+                "fileName": "hitman-absolution.jpg",
+                "enName": "Hitman: Absolution",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 56
+            },
+            {
+                "fileName": "hitman-blood-money.jpg",
+                "enName": "Hitman: Blood Money",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 57
+            },
+            {
+                "fileName": "hogwarts-legacy.jpg",
+                "enName": "Hogwarts Legacy",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 58
+            },
+            {
+                "fileName": "horizon-zero-dawn.jpg",
+                "enName": "Horizon: Zero Dawn",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 59
+            },
+            {
+                "fileName": "lanoire.jpg",
+                "enName": "L.A. Noire",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 60
+            },
+            {
+                "fileName": "limbo.jpg",
+                "enName": "Limbo",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 61
+            },
+            {
+                "fileName": "machinarium.jpg",
+                "enName": "Machinarium",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 62
+            },
+            {
+                "fileName": "mad-max.jpg",
+                "enName": "Mad Max",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 63
+            },
+            {
+                "fileName": "mafia-2.jpg",
+                "enName": "Mafia 2",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0.01,
+                "id": 64
+            },
+            {
+                "fileName": "mafia-definitive-edition.jpg",
+                "enName": "Mafia: Definitive Edition",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 65
+            },
+            {
+                "fileName": "mafia-the-city-of-lost-heaven.jpg",
+                "enName": "Mafia: The City of Lost Heaven",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 66
+            },
+            {
+                "fileName": "mass-effect.jpg",
+                "enName": "Mass Effect",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 67
+            },
+            {
+                "fileName": "mass-effect-2.jpg",
+                "enName": "Mass Effect 2",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 68
+            },
+            {
+                "fileName": "mass-effect-3.jpg",
+                "enName": "Mass Effect 3",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0.01,
+                "id": 69
+            },
+            {
+                "fileName": "max-payne.jpg",
+                "enName": "Max Payne",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 70
+            },
+            {
+                "fileName": "max-payne-2-the-fall-of-max-payne.jpg",
+                "enName": "Max Payne 2: The Fall of Max Payne",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 71
+            },
+            {
+                "fileName": "max-payne-3.jpg",
+                "enName": "Max Payne 3",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 72
+            },
+            {
+                "fileName": "metal-gear-solid-v.jpg",
+                "enName": "Metal Gear Solid V",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 73
+            },
+            {
+                "fileName": "metro-2033.jpg",
+                "enName": "Metro 2033",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 74
+            },
+            {
+                "fileName": "metro-exodus.jpg",
+                "enName": "Metro Exodus",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0.01,
+                "id": 75
+            },
+            {
+                "fileName": "metro-last-light.jpg",
+                "enName": "Metro Last Light",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 76
+            },
+            {
+                "fileName": "middle-earth-shadow-of-mordor.jpg",
+                "enName": "Middle-earth: Shadow of Mordor",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 77
+            },
+            {
+                "fileName": "minecraft.jpg",
+                "enName": "Minecraft",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 78
+            },
+            {
+                "fileName": "mirror's-edge.jpg",
+                "enName": "Mirror's Edge",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 79
+            },
+            {
+                "fileName": "mortal-kombat-11.jpg",
+                "enName": "Mortal Kombat 11",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 80
+            },
+            {
+                "fileName": "mortal-kombat-x.jpg",
+                "enName": "Mortal Kombat X",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 81
+            },
+            {
+                "fileName": "need-for-speed-most-wanted.jpg",
+                "enName": "Need for Speed: Most Wanted",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 82
+            },
+            {
+                "fileName": "need-for-speed-underground.jpg",
+                "enName": "Need for Speed Underground",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 83
+            },
+            {
+                "fileName": "need-for-speed-underground-2.jpg",
+                "enName": "Need for Speed Underground 2",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 84
+            },
+            {
+                "fileName": "nier-automata.jpg",
+                "enName": "NieR: Automata",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 85
+            },
+            {
+                "fileName": "outlast.jpg",
+                "enName": "Outlast",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 86
+            },
+            {
+                "fileName": "portal.jpg",
+                "enName": "Portal",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 87
+            },
+            {
+                "fileName": "portal-2.jpg",
+                "enName": "Portal 2",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 88
+            },
+            {
+                "fileName": "prey-(2017).jpg",
+                "enName": "Prey (2017)",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 89
+            },
+            {
+                "fileName": "prince-of-persia-warrior-within.jpg",
+                "enName": "Prince of Persia: Warrior Within",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 90
+            },
+            {
+                "fileName": "project-cars-2.jpg",
+                "enName": "Project CARS 2",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 91
+            },
+            {
+                "fileName": "red-dead-redemption.jpg",
+                "enName": "Red Dead Redemption",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 92
+            },
+            {
+                "fileName": "red-dead-redemption-2.jpg",
+                "enName": "Red Dead Redemption 2",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0.01,
+                "id": 93
+            },
+            {
+                "fileName": "resident-evil-2-remake.jpg",
+                "enName": "Resident Evil 2 Remake",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 94
+            },
+            {
+                "fileName": "resident-evil-4.jpg",
+                "enName": "Resident Evil 4",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 95
+            },
+            {
+                "fileName": "resident-evil-5.jpg",
+                "enName": "Resident Evil 5",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 96
+            },
+            {
+                "fileName": "resident-evil-village.jpg",
+                "enName": "Resident Evil: Village",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 97
+            },
+            {
+                "fileName": "rise-of-the-tomb-raider.jpg",
+                "enName": "Rise of the Tomb Raider",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 98
+            },
+            {
+                "fileName": "sekiro-shadows-die-twice.jpg",
+                "enName": "Sekiro: Shadows Die Twice",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0.01,
+                "id": 99
+            },
+            {
+                "fileName": "shift-2-unleashed.jpg",
+                "enName": "Shift 2 Unleashed",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 100
+            },
+            {
+                "fileName": "sid-meier's-civilization-v.jpg",
+                "enName": "Sid Meier's Civilization V",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 101
+            },
+            {
+                "fileName": "silent-hill-2.jpg",
+                "enName": "Silent Hill 2",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 102
+            },
+            {
+                "fileName": "silent-hill-3.jpg",
+                "enName": "Silent Hill 3",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 103
+            },
+            {
+                "fileName": "soma.jpg",
+                "enName": "Soma",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 104
+            },
+            {
+                "fileName": "spore.jpg",
+                "enName": "Spore",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 105
+            },
+            {
+                "fileName": "stalker-call-of-pripyat.jpg",
+                "enName": "S.T.A.L.K.E.R.: Call of Pripyat",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 106
+            },
+            {
+                "fileName": "stalker-shadow-of-chernobyl.jpg",
+                "enName": "S.T.A.L.K.E.R.: Shadow of Chernobyl",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 107
+            },
+            {
+                "fileName": "starcraft-2-wings-of-liberty.jpg",
+                "enName": "StarCraft II",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 108
+            },
+            {
+                "fileName": "star-wars-knights-of-the-old-republic.jpg",
+                "enName": "Star Wars: Knights of the Old Republic",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 109
+            },
+            {
+                "fileName": "syberia.jpg",
+                "enName": "Syberia",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 110
+            },
+            {
+                "fileName": "syberia-ii.jpg",
+                "enName": "Syberia II",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 111
+            },
+            {
+                "fileName": "the-elder-scrolls-3-morrowind.jpg",
+                "enName": "The Elder Scrolls III: Morrowind",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 112
+            },
+            {
+                "fileName": "the-elder-scrolls-5-skyrim.jpg",
+                "enName": "The Elder Scrolls V: Skyrim",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0.01,
+                "id": 113
+            },
+            {
+                "fileName": "the-elder-scrolls-iv-oblivion.jpg",
+                "enName": "The Elder Scrolls IV: Oblivion",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 114
+            },
+            {
+                "fileName": "the-forest-(2014).jpg",
+                "enName": "The Forest",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 115
+            },
+            {
+                "fileName": "the-last-of-us.jpg",
+                "enName": "The Last of Us",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0.01,
+                "id": 116
+            },
+            {
+                "fileName": "the-last-of-us-2.jpg",
+                "enName": "The Last of Us: Part II",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0.01,
+                "id": 117
+            },
+            {
+                "fileName": "the-sims-3.jpg",
+                "enName": "The Sims 3",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 118
+            },
+            {
+                "fileName": "the-sims-4.jpg",
+                "enName": "The Sims 4",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 119
+            },
+            {
+                "fileName": "the-walking-dead-the-game.jpg",
+                "enName": "The Walking Dead: A Telltale Games Series",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 120
+            },
+            {
+                "fileName": "the-witcher.jpg",
+                "enName": "The Witcher",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 121
+            },
+            {
+                "fileName": "the-witcher-2-assassins-of-kings.jpg",
+                "enName": "The Witcher 2: Assassins of Kings",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 122
+            },
+            {
+                "fileName": "the-witcher-3-wild-hunt.jpg",
+                "enName": "The Witcher 3: Wild Hunt",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0.01,
+                "id": 123
+            },
+            {
+                "fileName": "tomb-raider-(2013).jpg",
+                "enName": "Tomb Raider (2013)",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 124
+            },
+            {
+                "fileName": "tom-clancy's-splinter-cell-blacklist.jpg",
+                "enName": "Tom Clancy's Splinter Cell: Blacklist",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 125
+            },
+            {
+                "fileName": "tom-clancy's-splinter-cell-chaos-theory.jpg",
+                "enName": "Tom Clancy's Splinter Cell: Chaos Theory",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 126
+            },
+            {
+                "fileName": "uncharted-2-among-thieves.jpg",
+                "enName": "Uncharted 2: Among Thieves",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 127
+            },
+            {
+                "fileName": "uncharted-3-drake’s-deception.jpg",
+                "enName": "Uncharted 3: Drake's Deception",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 128
+            },
+            {
+                "fileName": "uncharted-4-a-thief's-end.jpg",
+                "enName": "Uncharted 4: A Thief's End",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 129
+            },
+            {
+                "fileName": "valiant-hearts-the-great-war.jpg",
+                "enName": "Valiant Hearts: The Great War",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 130
+            },
+            {
+                "fileName": "warcraft-3-the-frozen-throne.jpg",
+                "enName": "WarCraft 3: The Frozen Throne",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 131
+            },
+            {
+                "fileName": "xcom-2.jpg",
+                "enName": "XCOM 2",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 132
+            },
+            {
+                "fileName": "xcom-enemy-unknown.jpg",
+                "enName": "XCOM: Enemy Unknown",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 133
+            },
+            {
+                "fileName": "alan-wake.jpg",
+                "enName": "Alan Wake",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 134
+            },
+            {
+                "fileName": "alien-isolation.jpg",
+                "enName": "Alien Isolation",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 135
+            },
+            {
+                "fileName": "assassin's-creed.jpg",
+                "enName": "Assassin's Creed",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 136
+            },
+            {
+                "fileName": "assassin's-creed-2.jpg",
+                "enName": "Assassin's Creed 2",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 137
+            },
+            {
+                "fileName": "assassin's-creed-4-black-flag.jpg",
+                "enName": "Assassin's Creed IV: Black Flag",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 138
+            },
+            {
+                "fileName": "assassin's-creed-brotherhood.jpg",
+                "enName": "Assassin's Creed: Brotherhood",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 139
+            },
+            {
+                "fileName": "assassin's-creed-valhalla.jpg",
+                "enName": "Assassin's Creed: Valhalla",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 140
+            },
+            {
+                "fileName": "batman-arkham-asylum.jpg",
+                "enName": "Batman: Arkham Asylum",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 141
+            },
+            {
+                "fileName": "batman-arkham-city.jpg",
+                "enName": "Batman: Arkham City",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 142
+            },
+            {
+                "fileName": "battlefield-1.jpg",
+                "enName": "Battlefield 1",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 143
+            },
+            {
+                "fileName": "battlefield-3.jpg",
+                "enName": "Battlefield 3",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 144
+            },
+            {
+                "fileName": "battlefield-bad-company-2.jpg",
+                "enName": "Battlefield: Bad Company 2",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 145
+            },
+            {
+                "fileName": "bayonetta.jpg",
+                "enName": "Bayonetta",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 146
+            },
+            {
+                "fileName": "bioshock.jpg",
+                "enName": "Bioshock",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 147
+            },
+            {
+                "fileName": "bioshock-2.jpg",
+                "enName": "Bioshock 2",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 148
+            },
+            {
+                "fileName": "bioshock-infinite.jpg",
+                "enName": "Bioshock Infinite",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0.01,
+                "id": 149
+            },
+            {
+                "fileName": "bloodborne.jpg",
+                "enName": "Bloodborne",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 150
+            },
+            {
+                "fileName": "borderlands.jpg",
+                "enName": "Borderlands",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 151
+            },
+            {
+                "fileName": "call-of-duty-2.jpg",
+                "enName": "Call of Duty 2",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 152
+            },
+            {
+                "fileName": "call-of-duty-4-modern-warfare.jpg",
+                "enName": "Call of Duty 4: Modern Warfare",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 153
+            },
+            {
+                "fileName": "call-of-duty-black-ops.jpg",
+                "enName": "Call of Duty: Black Ops",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 154
+            },
+            {
+                "fileName": "call-of-duty-black-ops-2.jpg",
+                "enName": "Call of Duty: Black Ops II",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 155
+            },
+            {
+                "fileName": "call-of-duty-modern-warfare-2.jpg",
+                "enName": "Call of Duty: Modern Warfare 2",
+                "ruName": "",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 156
+            }
+        ],
+
+    "tvshows": 
+        [
+            {
+                "fileName": "suits.jpg",
+                "ruName": "Форс-мажоры",
+                "enName": "Suits",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 1
+            },
+            {
+                "fileName": "supernatural.jpg",
+                "ruName": "Сверхъестественное",
+                "enName": "Supernatural",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 2
+            },
+            {
+                "fileName": "ted-lasso.jpg",
+                "ruName": "Тед Лассо",
+                "enName": "Ted Lasso",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 3
+            },
+            {
+                "fileName": "the-big-bang-theory.jpg",
+                "ruName": "Теория большого взрыва",
+                "enName": "The Big Bang Theory",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0.01,
+                "id": 4
+            },
+            {
+                "fileName": "the-boys.jpg",
+                "ruName": "Пацаны",
+                "enName": "The Boys",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0.01,
+                "id": 5
+            },
+            {
+                "fileName": "the-crown.jpg",
+                "ruName": "Корона",
+                "enName": "The Crown",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 6
+            },
+            {
+                "fileName": "the-durrells.jpg",
+                "ruName": "Дарреллы",
+                "enName": "The Durrells",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 7
+            },
+            {
+                "fileName": "the-killing.jpg",
+                "ruName": "Убийство",
+                "enName": "The Killing",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 8
+            },
+            {
+                "fileName": "the-knick.jpg",
+                "ruName": "Больница Никербокер",
+                "enName": "The Knick",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 9
+            },
+            {
+                "fileName": "the-last-of-us.jpg",
+                "ruName": "Одни из нас",
+                "enName": "The Last of Us",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0.01,
+                "id": 10
+            },
+            {
+                "fileName": "the-mentalist.jpg",
+                "ruName": "Менталист",
+                "enName": "The Mentalist",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 11
+            },
+            {
+                "fileName": "the-offer.jpg",
+                "ruName": "Предложение",
+                "enName": "The Offer",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 12
+            },
+            {
+                "fileName": "the-office.jpg",
+                "ruName": "Офис",
+                "enName": "The Office",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0.01,
+                "id": 13
+            },
+            {
+                "fileName": "the-originals.jpg",
+                "ruName": "Древние",
+                "enName": "The Originals",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 14
+            },
+            {
+                "fileName": "the-queens-gambit.jpg",
+                "ruName": "Ход королевы",
+                "enName": "The Queen's Gambit",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 15
+            },
+            {
+                "fileName": "the-rookie.jpg",
+                "ruName": "Новичок",
+                "enName": "The Rookie",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 16
+            },
+            {
+                "fileName": "the-sopranos.jpg",
+                "ruName": "Сопрано",
+                "enName": "The Sopranos",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 17
+            },
+            {
+                "fileName": "the-tudors.jpg",
+                "ruName": "Тюдоры",
+                "enName": "The Tudors",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 18
+            },
+            {
+                "fileName": "the-wire.jpg",
+                "ruName": "Прослушка",
+                "enName": "The Wire",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 19
+            },
+            {
+                "fileName": "the-x-files.jpg",
+                "ruName": "Секретные материалы",
+                "enName": "The X Files",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 20
+            },
+            {
+                "fileName": "the-young-pope.jpg",
+                "ruName": "Молодой Папа",
+                "enName": "The Young Pope",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 21
+            },
+            {
+                "fileName": "this-is-us.jpg",
+                "ruName": "Это мы",
+                "enName": "This Is Us",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 22
+            },
+            {
+                "fileName": "true-detective.jpg",
+                "ruName": "Настоящий детектив",
+                "enName": "True Detective",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0.01,
+                "id": 23
+            },
+            {
+                "fileName": "victoria.jpg",
+                "ruName": "Виктория",
+                "enName": "Victoria",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 24
+            },
+            {
+                "fileName": "war-and-peace.jpg",
+                "ruName": "Война и мир",
+                "enName": "War and Peace",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 25
+            },
+            {
+                "fileName": "wayne.jpg",
+                "ruName": "Уэйн",
+                "enName": "Wayne",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 26
+            },
+            {
+                "fileName": "what-we-do-in-the-shadows.jpg",
+                "ruName": "Чем мы заняты в тени",
+                "enName": "What We Do in the Shadows",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 27
+            },
+            {
+                "fileName": "winning-time-the-rise-of-the-lakers.jpg",
+                "ruName": "Время побеждать: Расцвет династии Лейкерс",
+                "enName": "Winning Time: The Rise of the Lakers Dynasty",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 28
+            },
+            {
+                "fileName": "yellowstone.jpg",
+                "ruName": "Йеллоустоун",
+                "enName": "Yellowstone",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 29
+            },
+            {
+                "fileName": "young-sheldon.jpg",
+                "ruName": "Детство Шелдона",
+                "enName": "Young Sheldon",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 30
+            },
+            {
+                "fileName": "andor.jpg",
+                "ruName": "Андор",
+                "enName": "Andor",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 31
+            },
+            {
+                "fileName": "animal-kingdom.jpg",
+                "ruName": "По волчьим законам",
+                "enName": "Animal Kingdom",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 32
+            },
+            {
+                "fileName": "anne.jpg",
+                "ruName": "Энн",
+                "enName": "Anne",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 33
+            },
+            {
+                "fileName": "band-of-brothers.jpg",
+                "ruName": "Братья по оружию",
+                "enName": "Band of Brothers",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 34
+            },
+            {
+                "fileName": "better-call-saul.jpg",
+                "ruName": "Лучше звоните Солу",
+                "enName": "Better Call Saul",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 35
+            },
+            {
+                "fileName": "big-little-lies.jpg",
+                "ruName": "Большая маленькая ложь",
+                "enName": "Big Little Lies",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 36
+            },
+            {
+                "fileName": "black-mirror.jpg",
+                "ruName": "Черное зеркало",
+                "enName": "Black Mirror",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0.01,
+                "id": 37
+            },
+            {
+                "fileName": "boardwalk-empire.jpg",
+                "ruName": "Подпольная империя",
+                "enName": "Boardwalk Empire",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 38
+            },
+            {
+                "fileName": "bones.jpg",
+                "ruName": "Кости",
+                "enName": "Bones",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 39
+            },
+            {
+                "fileName": "breaking-bad.jpg",
+                "ruName": "Во все тяжкие",
+                "enName": "Breaking Bad",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0.01,
+                "id": 40
+            },
+            {
+                "fileName": "brooklyn-nine-nine.jpg",
+                "ruName": "Бруклин 9-9",
+                "enName": "Brooklyn Nine-Nine",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 41
+            },
+            {
+                "fileName": "castle.jpg",
+                "ruName": "Касл",
+                "enName": "Castle",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 42
+            },
+            {
+                "fileName": "chernobyl.jpg",
+                "ruName": "Чернобыль",
+                "enName": "Chernobyl",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0.01,
+                "id": 43
+            },
+            {
+                "fileName": "criminal-minds.jpg",
+                "ruName": "Мыслить как преступник",
+                "enName": "Criminal Minds",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 44
+            },
+            {
+                "fileName": "dark.jpg",
+                "ruName": "Тьма",
+                "enName": "Dark",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 45
+            },
+            {
+                "fileName": "desperate-housewives.jpg",
+                "ruName": "Отчаянные домохозяйки",
+                "enName": "Desperate Housewives",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 46
+            },
+            {
+                "fileName": "dexter.jpg",
+                "ruName": "Декстер",
+                "enName": "Dexter",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0.01,
+                "id": 47
+            },
+            {
+                "fileName": "downton-abbey.jpg",
+                "ruName": "Аббатство Даунтон",
+                "enName": "Downton Abbey",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 48
+            },
+            {
+                "fileName": "endeavour.jpg",
+                "ruName": "Молодой Морс",
+                "enName": "Endeavour",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 49
+            },
+            {
+                "fileName": "entourage.jpg",
+                "ruName": "Красавцы",
+                "enName": "Entourage",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 50
+            },
+            {
+                "fileName": "firefly.jpg",
+                "ruName": "Светлячок",
+                "enName": "Firefly",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 51
+            },
+            {
+                "fileName": "fleabag.jpg",
+                "ruName": "Дрянь",
+                "enName": "Fleabag",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 52
+            },
+            {
+                "fileName": "forever.jpg",
+                "ruName": "Вечность",
+                "enName": "Forever",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 53
+            },
+            {
+                "fileName": "friends.jpg",
+                "ruName": "Друзья",
+                "enName": "Friends",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0.01,
+                "id": 54
+            },
+            {
+                "fileName": "game-of-thrones.jpg",
+                "ruName": "Игра престолов",
+                "enName": "Game of Thrones",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0.01,
+                "id": 55
+            },
+            {
+                "fileName": "godfather-of-harlem.jpg",
+                "ruName": "Крёстный отец Гарлема",
+                "enName": "Godfather of Harlem",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 56
+            },
+            {
+                "fileName": "grey's-anatomy.jpg",
+                "ruName": "Анатомия страсти",
+                "enName": "Grey's Anatomy",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 57
+            },
+            {
+                "fileName": "grimm.jpg",
+                "ruName": "Гримм",
+                "enName": "Grimm",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 58
+            },
+            {
+                "fileName": "homeland.jpg",
+                "ruName": "Родина",
+                "enName": "Homeland",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 59
+            },
+            {
+                "fileName": "house.jpg",
+                "ruName": "Доктор Хаус",
+                "enName": "House, M.D.",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0.01,
+                "id": 60
+            },
+            {
+                "fileName": "house-of-the-dragon.jpg",
+                "ruName": "Дом Дракона",
+                "enName": "House of the Dragon",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0.01,
+                "id": 61
+            },
+            {
+                "fileName": "how-i-met-your-mother.jpg",
+                "ruName": "Как я встретил вашу маму",
+                "enName": "How I Met Your Mother",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 62
+            },
+            {
+                "fileName": "lie-to-me.jpg",
+                "ruName": "Обмани меня",
+                "enName": "Lie to Me",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0.01,
+                "id": 63
+            },
+            {
+                "fileName": "lost.jpg",
+                "ruName": "Остаться в живых",
+                "enName": "Lost",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0.01,
+                "id": 64
+            },
+            {
+                "fileName": "merlin.jpg",
+                "ruName": "Мерлин",
+                "enName": "Merlin",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 65
+            },
+            {
+                "fileName": "modern-family.jpg",
+                "ruName": "Американская семейка",
+                "enName": "Modern Family",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 66
+            },
+            {
+                "fileName": "narcos.jpg",
+                "ruName": "Нарко",
+                "enName": "Narcos",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0.01,
+                "id": 67
+            },
+            {
+                "fileName": "peacemaker.jpg",
+                "ruName": "Миротворец",
+                "enName": "Peacemaker",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 68
+            },
+            {
+                "fileName": "peaky-blinders.jpg",
+                "ruName": "Острые козырьки",
+                "enName": "Peaky Blinders",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0.01,
+                "id": 69
+            },
+            {
+                "fileName": "poirot.jpg",
+                "ruName": "Пуаро",
+                "enName": "Poirot",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 70
+            },
+            {
+                "fileName": "prison-break.jpg",
+                "ruName": "Побег",
+                "enName": "Prison Break",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0.01,
+                "id": 71
+            },
+            {
+                "fileName": "punisher.jpg",
+                "ruName": "Каратель",
+                "enName": "The Punisher",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 72
+            },
+            {
+                "fileName": "rome.jpg",
+                "ruName": "Рим",
+                "enName": "Rome",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 73
+            },
+            {
+                "fileName": "scrubs.jpg",
+                "ruName": "Клиника",
+                "enName": "Scrubs",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0.01,
+                "id": 74
+            },
+            {
+                "fileName": "secrets-of-sulphur-springs.jpg",
+                "ruName": "Тайны Салфер-Спрингс",
+                "enName": "Secrets of Sulphur Springs",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 75
+            },
+            {
+                "fileName": "severance.jpg",
+                "ruName": "Разделение",
+                "enName": "Severance",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 76
+            },
+            {
+                "fileName": "sex-and-the-city.jpg",
+                "ruName": "Секс в большом городе",
+                "enName": "Sex and the City",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 77
+            },
+            {
+                "fileName": "shameless.jpg",
+                "ruName": "Бесстыжие",
+                "enName": "Shameless",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 78
+            },
+            {
+                "fileName": "sherlock.jpg",
+                "ruName": "Шерлок",
+                "enName": "Sherlock",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0.01,
+                "id": 79
+            },
+            {
+                "fileName": "silicon-valley.jpg",
+                "ruName": "Силиконовая долина",
+                "enName": "Silicon Valley",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0.01,
+                "id": 80
+            },
+            {
+                "fileName": "snowfall.jpg",
+                "ruName": "Снегопад",
+                "enName": "Snowfall",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 81
+            },
+            {
+                "fileName": "sons-of-anarchy.jpg",
+                "ruName": "Сыны анархии",
+                "enName": "Sons of Anarchy",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 82
+            },
+            {
+                "fileName": "spartacus-blood-and-sand.jpg",
+                "ruName": "Спартак: Кровь и песок",
+                "enName": "Spartacus: Blood and Sand",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0.01,
+                "id": 83
+            },
+            {
+                "fileName": "spartacus-gods-of-the-arena.jpg",
+                "ruName": "Спартак: Боги арены",
+                "enName": "Spartacus: Gods of the Arena",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 84
+            },
+            {
+                "fileName": "stranger-things.jpg",
+                "ruName": "Очень странные дела",
+                "enName": "Stranger Things",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 85
+            },
+            {
+                "fileName": "the-mandalorian.jpg",
+                "ruName": "Мандалорец",
+                "enName": "The Mandalorian",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 86
+            },
+            {
+                "fileName": "сalifornication.jpg",
+                "ruName": "Блудливая Калифорния",
+                "enName": "Californication",
+                "wins": 0,
+                "winsInPairs": 0,
+                "losesInPairs": 0,
+                "points": 0,
+                "id": 87
+            }
+        ],
+    "filmscomments":[],
+    "gamescomments": [],
+    "tvshowscomments": []
+}
